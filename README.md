@@ -3,4 +3,4 @@ In this Power BI dashboard, I've conducted a thorough analysis of pizza sales fo
 
 The dashboard also highlights the busiest days and times, providing valuable information for optimizing operations and enhancing decision-making. With interactive features allowing for time selection, users can customize their exploration of the data for a more tailored and insightful experience.
 
-And analysis I have done usning SQL Queries
+And analysis I have done using SQL Queries
